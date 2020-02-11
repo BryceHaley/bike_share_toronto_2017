@@ -1,7 +1,7 @@
 tbs-Data-Exploration
 ==============================
 
-An itroduction to data exploration using a "dirty" dataset for Toronto Bike Share 2017 data
+An introduction to data exploration using a "dirty" dataset for Toronto Bike Share 2017 data
 
 Project Organization
 ------------
